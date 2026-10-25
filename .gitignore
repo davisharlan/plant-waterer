@@ -1,0 +1,25 @@
+# macOS: folder settings Finder saves in every folder it opens
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon[\r]
+
+# macOS: resource-fork files created when copying to some drives
+._*
+
+# macOS: files that can appear at the top of a drive
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Arduino IDE: compiled files from Sketch > Export Compiled Binary
+build/
